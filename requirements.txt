@@ -5,3 +5,4 @@ matplotlib
 ipywidgets
 ipyturtle
 pandas
+xlrd # for optional Excel support in Pandas
