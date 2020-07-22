@@ -1,4 +1,5 @@
 requests
 bs4
 numpy
+matplotlib
 ipywidgets
