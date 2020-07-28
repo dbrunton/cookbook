@@ -1,8 +1,9 @@
-requests
-bs4
-numpy
-matplotlib
-ipywidgets
-ipyturtle
-pandas
-xlrd # for optional Excel support in Pandas
+requests    # get stuff over a network
+bs4         # BeautifulSoup for messing with HTML
+numpy       # mathy goodness
+matplotlib  # graphs
+ipywidgets  # sliders and checkboxes oh my
+ipyturtle   # drawing pictures like Logo 
+pandas      # datasets like a spreadsheet
+xlrd        # for optional Excel support in Pandas
+pymarc      # library stuff
