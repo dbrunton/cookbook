@@ -1,8 +1,11 @@
 Markdown is a formatting dialect. It has some built-in formatting options:
 
 # Big Headings
+
 and
+
 ## Little Headings
+
 Normal un-formatted text is allowed. [Links](https://loc.gov) are embedded in a particular way, and there are
 1. numbered
 2. lists
