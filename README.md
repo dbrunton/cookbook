@@ -5,7 +5,7 @@ A notebook of Jupyter notebook goodies that I use mostly on Binder (you can clic
 
 1. [Markdown](https://github.com/dbrunton/cookbook/blob/master/Markdown.ipynb) is syntax for formatting text in notebooks.
    - GitHub also has [direct support](Raw-Markdown.md) for Markdown
-   - This Readme.md file is formatted with Markdown as well!
+   - This [Readme.md](Readme.md) file is formatted with Markdown as well!
 1. [Python](https://github.com/dbrunton/cookbook/blob/master/Python.ipynb) is a programming language with lots of modules I can install, like:
    - [Pandas](https://github.com/dbrunton/cookbook/blob/master/Pandas.ipynb) are basically python spreadsheets
    - [Drawing](https://github.com/dbrunton/cookbook/blob/master/Turtle%20Drawing.ipynb) is a fun way to learn some basics
