@@ -1,5 +1,5 @@
 # cookbook
-A notebook of Jupyter notebook goodies that I use mostly on Binder (you can click the badge below to launch them there).
+A notebook of Jupyter notebook goodies that I use mostly on Binder. Click the badge below to launch them there, or follow the links to look at static versions of them on GitHub.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dbrunton/cookbook/master)
 
