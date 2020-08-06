@@ -10,5 +10,6 @@ A notebook of Jupyter notebook goodies that I use mostly on Binder. Click the ba
    - [Pandas](https://github.com/dbrunton/cookbook/blob/master/Pandas.ipynb) are basically python spreadsheets
    - [Drawing](https://github.com/dbrunton/cookbook/blob/master/Turtle%20Drawing.ipynb) is a fun way to learn some basics
    - [Widgets](https://github.com/dbrunton/cookbook/blob/master/Widgets.ipynb) are little UI components
+   - Widgets can be combined with [other stuff](https://github.com/dbrunton/cookbook/blob/master/Web%20Scraping%20and%20Widgets.ipynb) as well.
    - [MARC Records](https://github.com/dbrunton/cookbook/blob/master/Turtle%20Drawing.ipynb) are used in some libraries
 
